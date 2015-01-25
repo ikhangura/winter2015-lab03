@@ -27,6 +27,7 @@ class Quotes extends CI_Model {
     // Constructor
     public function __construct() {
         parent::__construct();
+     //   $this->output->enable_profiler(true);
     }
 
     // retrieve a single quote
