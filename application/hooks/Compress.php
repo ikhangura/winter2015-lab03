@@ -1,8 +1,8 @@
 <?php
 /**
-* Bold Controller! Bolds all capitalized words in qotes.
+* Add strong tag to all capitalized words in qotes.
 *
-* hooks/Bold.php
+* hooks/Compress.php
 *
 * ------------------------------------------------------------------------
 */
@@ -46,4 +46,4 @@ function highlight()
 }
 }
 
-/* End of file Bold.php */
+/* End of file Compress.php */
